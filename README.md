@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdrafi02
+- 👋 Hi, I’m Rafi
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Artificial Intelligence 
 - 💞️ I’m looking to collaborate on AI , ML or Data Science Projects
